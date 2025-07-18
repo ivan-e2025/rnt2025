@@ -17,6 +17,7 @@ http://34.51.67.166/
 
 ### Smart contract
 
+https://sepolia.etherscan.io/token/0x1bb594e32d0a63b5adee411c9f6448be1a60f99a
 
 
 ## Multiagent system
@@ -29,5 +30,6 @@ http://34.51.67.166/
 
 <img width="1279" height="516" alt="Image" src="https://github.com/user-attachments/assets/87f7da33-8d2e-48c8-920a-ef29c8e3756b" />
 
-http://34.51.67.166/
+http://34.51.67.166:8501
+
 
