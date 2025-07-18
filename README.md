@@ -1,2 +1,2 @@
-# rnt2025
+# RNT2025
 RenewTrust 2025
