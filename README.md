@@ -5,9 +5,18 @@ The traceability allows tracking the life cycle of RECs (i.e. when and how the R
 
 ## NFT viewer
 
+Sepolia
+
 <img width="802" height="727" alt="Image" src="https://github.com/user-attachments/assets/e663cc60-fffb-479d-bf06-9fa550dfa7c1" />
 
-## Data explorer
+## Multiagent system
 
-## AI assistant
+### Data explorer
+
+<img width="1313" height="698" alt="Image" src="https://github.com/user-attachments/assets/45513e6b-9c60-40a3-aa6c-aecc72fe7b86" />
+
+### AI assistant
+
+<img width="1279" height="516" alt="Image" src="https://github.com/user-attachments/assets/87f7da33-8d2e-48c8-920a-ef29c8e3756b" />
+
 
