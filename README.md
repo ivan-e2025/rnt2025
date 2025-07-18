@@ -5,9 +5,13 @@ The traceability allows tracking the life cycle of RECs (i.e. when and how the R
 
 ## NFT viewer
 
-Sepolia
+### Real world asset
 
 <img width="802" height="727" alt="Image" src="https://github.com/user-attachments/assets/e663cc60-fffb-479d-bf06-9fa550dfa7c1" />
+
+### Smart contract
+
+
 
 ## Multiagent system
 
